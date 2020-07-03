@@ -14,8 +14,8 @@ padding: 30px;
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
